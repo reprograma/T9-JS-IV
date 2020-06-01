@@ -117,4 +117,4 @@ function funcaoSoma(a, b) {
   return a + b;
 }
 
-console.log("Função soma:", funcaoSoma(2, 3))
+console.log("Função soma com retorno:", funcaoSoma(2, 3))

@@ -6,9 +6,11 @@ const pessoa = {
 pessoa.personalidade[0];
 
 console.log("Personalidade1: ", pessoa.personalidade[0]);
+//
 
 
-//exercício
+
+
 
 
 
