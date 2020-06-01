@@ -24,3 +24,4 @@ Uma String nada mais é que texto puro | São os números, seja eles integer, fl
 
 ### [Objetos](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Objetos/B%C3%A1sico)
 
+> Objetos é uma coleção de dados e/ou funcionalidades relacionadas. 
