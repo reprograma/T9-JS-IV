@@ -26,9 +26,3 @@ const cliente1 = {
 
 //criando um objeto de forma nativa
 const objetoNativo = new Object()
-
-
-
-
-
-

@@ -105,7 +105,7 @@ console.log(meuArray)
 Chame a função passando dois números como
  parametros. */
 
-function funcaoComParametros(x, y) {
+function funcaoComParametrosSemRetorno(x, y) {
   const soma = x + y;
   console.log('soma: ', soma)
 }
@@ -113,7 +113,7 @@ function funcaoComParametros(x, y) {
 funcaoComParametros(10, 20)
 
 
-function funcaoSoma(a, b) {
+function funcaoSomaComRetorno(a, b) {
   return a + b;
 }
 

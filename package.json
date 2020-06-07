@@ -1,0 +1,20 @@
+{
+  "name": "t9-js-iv",
+  "version": "1.0.0",
+  "description": "T9 | Front-end | 2020 | Semana 14 | Javascript IV",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reprograma/T9-JS-IV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reprograma/T9-JS-IV/issues"
+  },
+  "homepage": "https://github.com/reprograma/T9-JS-IV#readme"
+}

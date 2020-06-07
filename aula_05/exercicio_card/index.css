@@ -1,0 +1,30 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nome{
+  color: #7e7edc
+}
+.img-rounded {
+  background-repeat: no-repeat;
+  border-radius: 60%;
+  width: 220px;
+  height: 200px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.avatar {
+  width: 20%;
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  margin: 0 10px;
+}
+
+.background {
+  background-color: #FAFAFA
+}
+
+#cards-section{
+  text-align: center;
+}

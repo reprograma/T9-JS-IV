@@ -39,6 +39,3 @@ const cliente3 = {
   loja: 'RJ-BR',
   atendente: 'Joana Maria'
 }
-
-
-

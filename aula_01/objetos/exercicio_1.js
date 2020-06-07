@@ -15,7 +15,6 @@
     acao: ["acao1", "God of War"]
   }
 }
-
 */
 
 let produtos = {
@@ -54,4 +53,3 @@ let hobbies = {
     mercado: ['Arroz', 'feijão']
   }]
 }
-

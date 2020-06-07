@@ -21,17 +21,18 @@ class Cliente {
   }
 
 
-  //   descontar() {
-  // //       //bloco
-  // //     // if (this.valor < 1500) {
-  // //     //   return "Terá um desconto de 10%";
-  // //     // } else {
-  // //     //   return "Não terá desconto";
-  // //     // }
-  // //ternario
-  // const desconto = this.valor < 1500 ? `Terá um desconto de 10%`: `Não terá desconto`;
-  // return desconto;  
-  // // // }
+  descontar() {
+
+    // //       //bloco
+    // //     // if (this.valor < 1500) {
+    // //     //   return "Terá um desconto de 10%";
+    // //     // } else {
+    // //     //   return "Não terá desconto";
+    // //     // }
+    // //ternario
+    const desconto = this.valor <= 1500 ? `Terá um desconto de 10%` : `Não terá desconto`;
+    return desconto;
+  }
 
 
   verificarCor() {
